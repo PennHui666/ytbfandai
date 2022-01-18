@@ -1,0 +1,7 @@
+{
+  "name": "ytbfandai",
+  "version": 2,
+  "routes": [
+    {"src": "/(.*)","dest": "https://www.youtube.com/$1"}
+  ]
+}
